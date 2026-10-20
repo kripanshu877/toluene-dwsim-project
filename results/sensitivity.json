@@ -1,0 +1,125 @@
+{
+  "source": "User-run DWSIM screenshots; rounded displayed values. Component order: n-heptane, toluene, hydrogen.",
+  "cases": [
+    {
+      "temperature_C": 20,
+      "cooling_duty_kW": 3825.17,
+      "gas_kmol_h": 62.8803,
+      "liquid_kmol_h": 97.1197,
+      "gas_mole_fractions": [
+        0.041769261,
+        0.0058096708,
+        0.95242107
+      ],
+      "liquid_mole_fractions": [
+        0.84816077,
+        0.15068633,
+        0.0011529007
+      ],
+      "hydrogen_purity_mol_pct": 95.242107,
+      "toluene_liquid_recovery_pct": 97.56407442467334,
+      "hydrogen_gas_recovery_pct": 99.81420434653499,
+      "component_residuals_kmol_h": [
+        -0.00041680337270122436,
+        -7.499349376161035e-05,
+        0.0004919780347876213
+      ]
+    },
+    {
+      "temperature_C": 25,
+      "cooling_duty_kW": 3785.79,
+      "gas_kmol_h": 63.7839,
+      "liquid_kmol_h": 96.2161,
+      "gas_mole_fractions": [
+        0.053580262,
+        0.0074860398,
+        0.9389337
+      ],
+      "liquid_mole_fractions": [
+        0.84790879,
+        0.15093646,
+        0.0011547492
+      ],
+      "hydrogen_purity_mol_pct": 93.89337,
+      "toluene_liquid_recovery_pct": 96.81678352670666,
+      "hydrogen_gas_recovery_pct": 99.81475537905001,
+      "component_residuals_kmol_h": [
+        3.5002900787617364e-05,
+        6.343005217956943e-06,
+        -4.130806787827623e-05
+      ]
+    },
+    {
+      "temperature_C": 30,
+      "cooling_duty_kW": 3743.79,
+      "gas_kmol_h": 64.9329,
+      "liquid_kmol_h": 95.0671,
+      "gas_mole_fractions": [
+        0.068095217,
+        0.0095620447,
+        0.92234274
+      ],
+      "liquid_mole_fractions": [
+        0.84759505,
+        0.15125225,
+        0.0011526976
+      ],
+      "hydrogen_purity_mol_pct": 92.234274,
+      "toluene_liquid_recovery_pct": 95.86075183983333,
+      "hydrogen_gas_recovery_pct": 99.81731483691001,
+      "component_residuals_kmol_h": [
+        2.3293794299661386e-05,
+        4.068275629265372e-06,
+        -2.747984503059797e-05
+      ]
+    },
+    {
+      "temperature_C": 40,
+      "cooling_duty_kW": 3649.43,
+      "gas_kmol_h": 68.2407,
+      "liquid_kmol_h": 91.7593,
+      "gas_mole_fractions": [
+        0.10705962,
+        0.015220452,
+        0.87771993
+      ],
+      "liquid_mole_fractions": [
+        0.846715,
+        0.15215143,
+        0.0011335755
+      ],
+      "hydrogen_purity_mol_pct": 87.77199300000001,
+      "toluene_liquid_recovery_pct": 93.07539140532666,
+      "hydrogen_gas_recovery_pct": 99.827037378585,
+      "component_residuals_kmol_h": [
+        -0.0002008899659955432,
+        -3.69904046007008e-05,
+        0.00023852152815351246
+      ]
+    },
+    {
+      "temperature_C": 50,
+      "cooling_duty_kW": 3534.69,
+      "gas_kmol_h": 73.6259,
+      "liquid_kmol_h": 86.3742,
+      "gas_mole_fractions": [
+        0.16280588,
+        0.02353605,
+        0.81365807
+      ],
+      "liquid_mole_fractions": [
+        0.84531218,
+        0.15360045,
+        0.0010873661
+      ],
+      "hydrogen_purity_mol_pct": 81.365807,
+      "toluene_liquid_recovery_pct": 88.4474399226,
+      "hydrogen_gas_recovery_pct": 99.84384616002167,
+      "component_residuals_kmol_h": [
+        -0.00010726195201016253,
+        -2.1147914999630757e-05,
+        0.00022807300761940041
+      ]
+    }
+  ]
+}
